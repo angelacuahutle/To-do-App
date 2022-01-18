@@ -1,4 +1,3 @@
-import TodosList from "./TodosList";
 import React from "react"
 import TodoItem from "./TodoItem";
 
